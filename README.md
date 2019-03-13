@@ -1,1 +1,1 @@
-This is simple OTP Verification Website using Reactjs and Nodejs.
+This is a simple OTP Verification Website using Reactjs and Nodejs.
