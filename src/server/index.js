@@ -7,7 +7,7 @@ var app      = express();
 var SendOtp  = require("sendotp");
 //var morgan       = require('morgan');
 var bodyParser   = require('body-parser');
-const sendOtp = new SendOtp('265294AoZhBoZ4MDI5c780bce');
+const sendOtp = new SendOtp('API_KEY');
 //app.use(morgan('dev'));  // read cookies (needed for auth)
 app.use(bodyParser());  // persistent login sessions
 //app.use(flash()); // use connect-flash for flash messages stored in session
